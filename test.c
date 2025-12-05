@@ -3,7 +3,11 @@
 
 int main(void)
 {
-	printf("testing..\n");
+	printf("wangjiawei”);
+	printf("20251205");
+	
+	sleep(1);
+	
 	return 0;
 }
 
